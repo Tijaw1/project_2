@@ -68,3 +68,5 @@ Financial institutions receive an overwhelming amount of credit card and loan ap
 - Selected Voting Hard classifier as the final model
 
 #### **Robo Adviser Sample**
+
+![Robo_Advisor](https://github.com/Tijaw1/project_2/blob/main/Images/robo.png)
